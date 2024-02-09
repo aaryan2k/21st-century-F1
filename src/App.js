@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import { Routes, Route } from 'react-router-dom';
 import Navigation from './nav-bar/Navigation';
 import Home from './home/Home';
 import Standings from './standings/Standings';
 import Results from './results/Results';
-import { Routes, Route } from 'react-router-dom';
+
 
 function App() {
   return (

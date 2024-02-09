@@ -1,6 +1,9 @@
+import Carousel from "./Carousel.js";
+import './Home.css';
+
 const Home = () => {
     return ( 
-        <h1>Hello world;</h1>
+        <Carousel />
      );
 }
  

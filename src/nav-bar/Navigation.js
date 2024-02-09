@@ -9,8 +9,11 @@ const Navigation = () => {
             <nav>
               <img src={logo} width="70" height="50" className="px-2"alt="logo"/>
               <h4>21st Century F1</h4>
-              {/* <div className="menu" onClick={() => setMenuOpen(!menuOpen)}>
-              </div> */}
+              <div className="menu" onClick={() => setMenuOpen(!menuOpen)}>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
               <ul className={menuOpen ? "open" : ""}>
                 <li>
                   <NavLink to="/" className={"nav-link text-white nav-effect"}> Home</NavLink>
