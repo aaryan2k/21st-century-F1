@@ -10,7 +10,7 @@ const DriverSelect = () => {
 
     const handleSelectChange = (e) => {
         const selectedYear = e.target.value;    
-        navigate(`/drivers-standings/${selectedYear}`);
+        navigate(`/standings/${selectedYear}`);
     }
 
     return ( 
