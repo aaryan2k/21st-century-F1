@@ -5,8 +5,8 @@ const StandingsLoader= async({params}) => {
     console.log("Executing Standings Loader Year is " + year);
     
     
-    let ergastDriverUrl = `http://ergast.com/api/f1/${year}/driverStandings.json`;
-    let ergastConstructorUrl = `http://ergast.com/api/f1/${year}/constructorStandings.json`;
+    let ergastDriverUrl = `https://ergast.com/api/f1/${year}/driverStandings.json`;
+    let ergastConstructorUrl = `https://ergast.com/api/f1/${year}/constructorStandings.json`;
     
 
     console.log("Promise all call")
