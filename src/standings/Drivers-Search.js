@@ -34,6 +34,7 @@ const DriversSearchResults = () => {
                             <th>Driver</th>
                             <th>Constructor</th>
                             <th>Points</th>
+                            <th>Wins</th>
                         </tr>
                     </thead>
                     <tbody>

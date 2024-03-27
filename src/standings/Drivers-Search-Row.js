@@ -13,6 +13,7 @@ const DriversSearchRow = ({driverStanding}) => {
             <td>{driverStanding.Driver.givenName + " " + driverStanding.Driver.familyName}</td>
             <td>{driverStanding.Constructors[0].name}</td>
             <td>{driverStanding.points}</td>
+            <td>{driverStanding.wins}</td>
         </tr>
      );
 }
