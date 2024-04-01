@@ -56,9 +56,9 @@ const Main = () => {
                 <div className="col-lg-8">
                     <h2 className="pb-4 mb-4 fst-italic text-start">My Story</h2>
                     <p className="text-start">
-                        For the last decade, I have loved watching Formula 1. I have seen Sebastian Vettel win his fourth Championship, 
-                        Lewis Hamilton become a seven time champion of the world, and the young upstart named Max Verstappen take his place
-                        with legends of the sport. I have been fascinated with the history of the sport and how it has evolved over the years
+                        For the last couple of years, I have loved watching Formula 1. I have seen Lewis Hamilton become 
+                        a seven time champion of the world and Max Verstappen dominate the sport in his Red Bull. 
+                        I have been fascinated with the history of the sport and how it has evolved over the years.
                     </p>
                     <p className="text-start">
                         As I grew older, I also became very interested in engineering and computer science. With engineering being such an integral part for the development of
