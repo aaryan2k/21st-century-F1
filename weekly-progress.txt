@@ -29,3 +29,7 @@ Week 6:
 Week 7: 
   1. Finished the results page, it pulls from API and everything works
   2. Work on constructor standings, figure out how to get 2 API calls and make the tabs work. 
+
+Week 10: 
+  1. Moved thru part the SQL course and collected the data for my database
+  2. Keep watching the course, start the API making course
